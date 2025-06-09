@@ -4,7 +4,7 @@ This project is a simple **2D visual Rubik's Cube simulator** with both CLI and 
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 - **Educational focus** — intended as a training ground for understanding:
   - Cube rotation logic
@@ -16,7 +16,7 @@ This project is a simple **2D visual Rubik's Cube simulator** with both CLI and 
 
 ---
 
-## 🧱 Features
+## Features
 
 - Visual interface using **Tkinter**
 - Console-based visualizer (`visualizer.py`)
@@ -27,7 +27,7 @@ This project is a simple **2D visual Rubik's Cube simulator** with both CLI and 
 
 ---
 
-## 🐍 Requirements
+## Requirements
 
 This project uses only the Python Standard Library.
 
@@ -39,7 +39,7 @@ No external dependencies required.
 
 ---
 
-## 🧩 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
@@ -64,7 +64,7 @@ No external dependencies required.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 - `cube.py` — Core Rubik's Cube logic and move implementation
 - `visualizer.py` — Console-based cube visualizer
@@ -72,7 +72,7 @@ No external dependencies required.
 
 ---
 
-## 🔮 Future Plans
+## Future Plans
 
 - Add **step-by-step solving algorithm**
 - Explore simple **neural network** training for cube solutions
